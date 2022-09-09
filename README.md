@@ -1,22 +1,22 @@
-<h1 align="center">Hey... <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm Devanshu Saxena </h1>
+<h1 align="center">Hey... <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm Vatsa Aditya </h1>
 <h3 align="center">A Devloper from India 🇮🇳 </h3>
 
 ## 📈 Stats
 <p align="center">
 	
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=devanshu0605&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=devanshu0605&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Vatsa&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=spector-0110&theme=tokyonight" />
 </p>
 
 
 
-<img src="https://activity-graph.herokuapp.com/graph?username=devanshu0605&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
+<img src="https://activity-graph.herokuapp.com/graph?username=spector-0110&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
 
 ## ⚡ Technologies
 
 ### Language :
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![cpp](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cpp)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=Java)
